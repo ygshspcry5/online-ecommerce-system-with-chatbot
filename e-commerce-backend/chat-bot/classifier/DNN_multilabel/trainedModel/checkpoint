@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\USER.000\\Desktop\\classifier\\dnn-text-classification\\text_classification\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Users\\USER.000\\Desktop\\classifier\\dnn-text-classification\\text_classification\\model.tflearn"

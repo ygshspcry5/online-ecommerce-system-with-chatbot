@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "ecommerce",
+                "projectName": "ecommerce",
+                "workingDirectory": "d:\\CurrentLooks\\Projects\\minor project\\e-commerce-master\\e-commerce-backend\\e-commerce",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "ecommerce",
+                "projectName": "ecommerce",
+                "workingDirectory": "d:\\CurrentLooks\\Projects\\minor project\\e-commerce-master\\e-commerce-backend\\e-commerce",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
